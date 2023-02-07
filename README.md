@@ -1,5 +1,5 @@
 # Face-Recognition
-a simple face reconition program using LBPH and HAAR-CascadeClassifier
+A simple face reconition program using LBPH and HAAR-CascadeClassifier. Had built this for my B-Tech Minor Project
 
 1) CREATE THE DATA SET WITH HELP OF HAAR CASCACADE CLASSIFIER
 2) TRAIN THE DATA SET WITH THE HELP OF LBPH ALGORITHM
